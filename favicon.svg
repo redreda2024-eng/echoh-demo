@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SaniLoc">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#b)"/>
+  <path d="M13 24h32" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M17 24v27.5h24V24" stroke="#fff" stroke-width="2.8" stroke-linejoin="round" fill="none"/>
+  <path d="M26 28h3.6M34.4 28H38" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="23" y="32" width="12" height="19.5" rx="1.6" stroke="#fff" stroke-width="2" fill="none"/>
+  <circle cx="32.6" cy="41.5" r="1.4" fill="#fff"/>
+  <circle cx="48" cy="47" r="10.5" fill="#fff"/>
+  <path d="M48 39.4c2.5 3.2 4.3 5.5 4.3 7.7a4.3 4.3 0 1 1-8.6 0c0-2.2 1.8-4.5 4.3-7.7z" fill="#0f766e"/>
+</svg>
