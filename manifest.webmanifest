@@ -1,0 +1,32 @@
+{
+  "name": "ECHO H — SaniLoc",
+  "short_name": "SaniLoc",
+  "description": "Gestion de location de sanitaires mobiles — ECHO H SARL",
+  "start_url": "./#/magasinier",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f766e",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "logo-fleet.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-fleet.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "eco-h-logo.jpg",
+      "sizes": "180x180",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
