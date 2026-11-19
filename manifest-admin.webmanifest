@@ -1,0 +1,15 @@
+{
+  "name": "ECHO H — Administration",
+  "short_name": "ADMIN",
+  "description": "ECHO H SARL — gestion de la location de sanitaires mobiles.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f766e",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-admin.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

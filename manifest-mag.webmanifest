@@ -1,0 +1,15 @@
+{
+  "name": "ECHO H — App Magasinier",
+  "short_name": "MAG",
+  "description": "Application magasinier ECHO H — scan produits, collecte et BL.",
+  "start_url": "./#/magasinier",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-mag.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

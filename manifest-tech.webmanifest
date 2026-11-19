@@ -1,0 +1,15 @@
+{
+  "name": "ECHO H — App Terrain",
+  "short_name": "TECH",
+  "description": "Application terrain ECHO H — km, carburant, Jawaz et localisation.",
+  "start_url": "./#/terrain",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon-tech.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
