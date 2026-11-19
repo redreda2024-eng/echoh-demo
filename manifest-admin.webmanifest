@@ -2,7 +2,7 @@
   "name": "ECHO H — Administration",
   "short_name": "ADMIN",
   "description": "ECHO H SARL — gestion de la location de sanitaires mobiles.",
-  "start_url": "./#/",
+  "start_url": "./?app=admin#/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

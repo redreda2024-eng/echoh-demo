@@ -2,7 +2,7 @@
   "name": "ECHO H — App Magasinier",
   "short_name": "MAG",
   "description": "Application magasinier ECHO H — scan produits, collecte et BL.",
-  "start_url": "./#/magasinier",
+  "start_url": "./?app=mag#/magasinier",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

@@ -2,7 +2,7 @@
   "name": "ECHO H — App Terrain",
   "short_name": "TECH",
   "description": "Application terrain ECHO H — km, carburant, Jawaz et localisation.",
-  "start_url": "./#/terrain",
+  "start_url": "./?app=tech#/terrain",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
